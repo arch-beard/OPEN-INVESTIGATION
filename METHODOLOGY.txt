@@ -22,7 +22,7 @@ https://api.unhcr.org/population/v1/population/?limit=100000
 &columns%5B%5D=hst
 &columns%5B%5D=ooc
 
-&year%5B%5D=1951	&year%5B%5D=1952	&year%5B%5D=1953	&year%5B%5D=1954
+&year%5B%5D=1951	&year%5B%5D=1952	&year%5B%5D=1953	&year%5B%5D=1954	&year%5B%5D=2023
 &year%5B%5D=1955	&year%5B%5D=1956	&year%5B%5D=1957	&year%5B%5D=1958
 &year%5B%5D=1959	&year%5B%5D=1960	&year%5B%5D=1961	&year%5B%5D=1962
 &year%5B%5D=1963	&year%5B%5D=1964	&year%5B%5D=1965	&year%5B%5D=1966

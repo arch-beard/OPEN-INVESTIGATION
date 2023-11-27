@@ -3,7 +3,7 @@
 				UNITED NATIONS REFUGEE AND ASYLEE PROGRAM - 1951 THRU 2022*
 
 
-U.N. claims to have resettled over 43 Million "refugees and asylees" in the USA since 1951.
+U.N. claims to have resettled over 46 Million "refugees and asylees" in the USA since 1951.
 
 This claim does not consider aliens who have arrived via border crossing or Visa overstays.
 
@@ -24,7 +24,7 @@ their inbound data on "refugees and asylees".
 NOTE:  In some instances, the U.N. did not present "refugees and asylees" data for some countries.
 Positive and NULL responses are included within the dataset.  
 The following country naming conventions were used with the U.N. API query, which does not respond to
-Country ISO standard naming formats.  Each query explicitly specified 1951-2022 to be included.
+Country ISO standard naming formats.  Each query explicitly specified 1951-2023 to be included.
 
 AFG,ALB,ALG,AND,ANG,ANT,ARE,ARG,ARM,AUL,AUS,AZE,BAH,BAR,BDI,BEL,BEN,BER,BGD,BHS,BHU,BKF,BLR,
 BOL,BOT,BRA,BRU,BSN,BUL,BZE,CAM,CAN,CAR,CAY,CHD,CHI,CHL,CMR,COB,COD,COI,COL,COS,CUB,CUW,CVI,
