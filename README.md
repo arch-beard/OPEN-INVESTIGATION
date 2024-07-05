@@ -19,7 +19,7 @@ The UNHCR is a multilateral intergovernmental institution given a core mandate i
 
 #### Definition of Refugees and Asylees do NOT include Migrants
 
-The UNHCR states the term 'migrant' is not defined under international law, and the UN's involvement does not extend to 'migrants'. Two categories of people are covered by the UN: Refugees and Asylum-Seekers. The 'Refugee' is defined as anyone outside their country of origin for reasons of feared persecution, conflict, generalized violence or other circumstances that have seriously disturbed public order. The 'Asylum-seeker' is defined as anyone whose 'Refugee' status has not yet been determined by authorities, but whose claim to international protection entitles the individual to a certain protective status on the basis the individual 'could' be a 'Refugee', or where persons forming a large-scale influx of mixed groups in a situation where individual 'Refugee' status determination....is impractical. They may also be called 'prima facie' refugees.  However, as 'migrant' is not defined, such numbers are not recorded.  By definition, border crossers, migrants, so-called got-a-ways, VISA overstays, such people are not automatically included by definition. [[Migrant definition | UNHCR]((https://emergency.unhcr.org/protection/legal-framework/migrant-definition))
+The UNHCR states the term 'migrant' is not defined under international law, and the UN's involvement does not extend to 'migrants'. Two categories of people are covered by the UN: Refugees and Asylum-Seekers. The 'Refugee' is defined as anyone outside their country of origin for reasons of feared persecution, conflict, generalized violence or other circumstances that have seriously disturbed public order. The 'Asylum-seeker' is defined as anyone whose 'Refugee' status has not yet been determined by authorities, but whose claim to international protection entitles the individual to a certain protective status on the basis the individual 'could' be a 'Refugee', or where persons forming a large-scale influx of mixed groups in a situation where individual 'Refugee' status determination....is impractical. They may also be called 'prima facie' refugees.  However, as 'migrant' is not defined, such numbers are not recorded.  By definition, border crossers, migrants, so-called got-a-ways, VISA overstays, such people are not automatically included by definition. [Migrant definition | UNHCR](https://emergency.unhcr.org/protection/legal-framework/migrant-definition)
 
 
 
@@ -35,7 +35,7 @@ The U.N. data for the U.S. as country of asylum, when compared with official U.S
 
 Examination performed on the following OHSS, DHS and DOJ reports (1997-FY2022):
 
-[Refugees and Asylees Annual Flow Report | Homeland Security]((https://www.dhs.gov/ohss/topics/immigration/refugees-asylees-afr))
+[Refugees and Asylees Annual Flow Report | Homeland Security](https://www.dhs.gov/ohss/topics/immigration/refugees-asylees-afr)
 
   
 
