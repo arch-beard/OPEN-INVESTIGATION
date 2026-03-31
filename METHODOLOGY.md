@@ -55,7 +55,7 @@ https://api.unhcr.org/population/v1/population/?limit=100000
 &year%5B%5D=1987    &year%5B%5D=1988    &year%5B%5D=1989    &year%5B%5D=1990    &year%5B%5D=1991    &year%5B%5D=1992    &year%5B%5D=1993    &year%5B%5D=1994    &year%5B%5D=1995    &year%5B%5D=1996    &year%5B%5D=1997    &year%5B%5D=1998
 &year%5B%5D=1999    &year%5B%5D=2000    &year%5B%5D=2001    &year%5B%5D=2002    &year%5B%5D=2003    &year%5B%5D=2004    &year%5B%5D=2005    &year%5B%5D=2006    &year%5B%5D=2007    &year%5B%5D=2008    &year%5B%5D=2009    &year%5B%5D=2010
 &year%5B%5D=2011    &year%5B%5D=2012    &year%5B%5D=2013    &year%5B%5D=2014    &year%5B%5D=2015    &year%5B%5D=2016    &year%5B%5D=2017    &year%5B%5D=2018    &year%5B%5D=2019    &year%5B%5D=2020    &year%5B%5D=2021    &year%5B%5D=2022
-&year%5B%5D=2023    &year%5B%5D=2024
+&year%5B%5D=2023    &year%5B%5D=2024    &year%5B%5D=2025    &year%5B%5D=2026
 
 &coo_all=true&coa=***&page=1
 

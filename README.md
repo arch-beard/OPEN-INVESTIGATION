@@ -2,7 +2,7 @@
 
 ## U.N. REFUGEE AND ASYLEE PROGRAM
 
-## 1951 THRU 2024*
+## 1951 THRU 2026*
 
 ### United Nations data reveals >50 Million 'refugees and asylees' resettled into the USA
 
@@ -46,11 +46,46 @@ While initial focus concerns refugees and asylees numbers for the U.S., the data
 
 In some instances, the U.N. did not present data for some countries. Positive and NULL responses are included within the dataset, and reflects the raw nature of the query.
 
-The UNHCR uses the following country naming conventions through their API query which is dutifully maintained within the respective country of asylum filenames found in this repository.  The Country ISO standard as well as the country name of asylum is clearly presented within the actual data.
+The UNHCR uses the following country naming conventions through UN API query which is dutifully maintained within the respective country of asylum filenames found in this repository.  The Country ISO standard as well as the country name of asylum is clearly presented within the actual data.
 
-###### AFG,ALB,ALG,AND,ANG,ANT,ARE,ARG,ARM,AUL,AUS,AZE,BAH,BAR,BDI,BEL, BEN,BER,BGD,BHS,BHU,BKF,BLR,BOL,BOT,BRA,BRU,BSN,BUL,BZE,CAM,CAN, CAR,CAY,CHD,CHI,CHL,CMR,COB,COD,COI,COL,COS,CUB,CUW,CVI,CYP,CZE, DEN,DJB,DMA,DOM,ECU,EGU,ERT,EST,ETH,FGU,FIJ,FIN,FNC,FRA,FSM,GAB, GAM,GAZ,GBR,GEO,GFR,GHA,GIB,GLP,GNB,GRE,GRN,GUA,GUI,GUY,HAI,HKG, HON,HRV,HUN,ICE,ICO,IND,INS,IRE,IRN,IRQ,ISR,ITA,JAM,JOR,JPN,KAZ, KEN,KGZ,KIR,KOR,KRN,KUW,LAO,LBR,LBY,LCA,LEB,LES,LKA,LTU,LVA,MAC, MAD,MAU,MCD,MCO,MDA,MDV,MEX,MHL,MLI,MLS,MLW,MNE,MNG,MOR,MOZ,MTA, MTS,MYA,NAM,NEP,NET,NGR,NIC,NIG,NIU,NRU,NZL,OMN,PAK,PAN,PAR,PER, PHI,POL,POR,QAT,ROM,RSA,RUS,RWA,SAL,SAU,SEN,SEY,SIN,SLE,SMA,SOM, SPA,SRB,SRV,SSD,STA,STK,SUD,SUR,SVK,SVN,SWA,SWE,SWI,SYR,TAN,TCI, THA,TJK,TKM,TMP,TOG,TON,TRT,TUN,TUR,UAE,UGA,UKN,UKR,URU,USA,UZB, VAN,VCT,VEN,WES,YEM,ZAM,ZIM
+```
+ABW, AFG, AIA, ALB, ALG, AND, ANG, ANT, ARE, ARG, ARM, AUL, AUS, AZE, BAH,
 
-Each API query explicitly requested all available data from the UNHCR database ranging from 1951 thru 2024.
+BAR, BDI, BEL, BEN, BER, BES, BGD, BHS, BHU, BKF, BLR, BOL, BOT, BRA, BRU,
+
+BSN, BUL, BVI, BVT, BZE, CAM, CAN, CAR, CAY, CHD, CHI, CHL, CMR, COB, COD,
+
+COI, COK, COL, COS, CRB, CUB, CUR, CUW, CVI, CYP, CZE, DEN, DJB, DMA, DOM,
+
+ECU, EGU, ERT, EST, ETH, FGU, FIJ, FIN, FNC, FPO, FRA, FRO, FSM, GAB, GAM,
+
+GAZ, GBR, GEO, GFR, GHA, GIB, GLP, GNB, GRE, GRL, GRN, GUA, GUI, GUM, GUY,
+
+HAI, HKG, HON, HRV, HUN, ICE, ICO, IND, INS, IRE, IRN, IRQ, ISR, ITA, JAM,
+
+JOR, JPN, KAZ, KEN, KGZ, KIR, KOR, KRN, KUW, LAO, LBR, LBY, LCA, LEB, LES,
+
+LIE, LKA, LTU, LUX, LVA, MAC, MAD, MAF, MAR, MAU, MCD, MCO, MDA, MDV, MEX,
+
+MHL, MLI, MLS, MLW, MNE, MNG, MNP, MOR, MOZ, MSR, MTA, MTS, MYA, NAM, NEP,
+
+NET, NGR, NIC, NIG, NIU, NOR, NRU, NZL, OMN, PAK, PAN, PAR, PER, PHI, PLW,
+
+PNG, POL, POR, PUE, QAT, REU, ROM, RSA, RUS, RWA, SAL, SAU, SEN, SEY, SGS,
+
+SIN, SJM, SLE, SMA, SOL, SOM, SPA, SPM, SRB, SRV, SSD, STA, STK, STP, SUD,
+
+SUR, SVK, SVN, SWA, SWE, SWI, SXM, SYR, TAN, TCI, THA, TIB, TJK, TKM, TMP,
+
+TOG, TON, TRT, TUN, TUR, TUV, UAE, UGA, UKN, UKR, URU, USA, UZB, VAN, VAT,
+
+VCT, VEN, WES, WSH, YEM, ZAM, ZIM 
+
+```
+
+
+
+Each API query explicitly requested all available data from the UNHCR database ranging from 1951 thru 2026*.
 
 [UNHCR Public Query](https://www.unhcr.org/refugee-statistics/download/)
 
