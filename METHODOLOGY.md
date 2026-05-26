@@ -28,12 +28,12 @@ API queries were initiated for each country of asylum, and saved in the JSON fol
 ## DATA
 
 
-The data contained is in multiple formats for wider access (XLSX, CSV, JSON).  The data in summary reveals UNHCR refugee and asylee records for all available nations.  With this data, you may total the refugees and asylum_seekers (if they exist) for years 1951 thru 2024 for any available nation, you may identify trends by country of origin on an annual basis, and much more.  Excel pivot tables may be exceptionally useful in your own analysis.
+The data contained is in multiple formats for wider access (XLSX, CSV, JSON).  The data in summary reveals UNHCR refugee and asylee records for all available nations.  With this data, you may total the refugees and asylum_seekers (if they exist) for years 1951 thru 2026 for any available nation, you may identify trends by country of origin on an annual basis, and much more.  Excel pivot tables may be exceptionally useful in your own analysis.
 
 
 ## Example API Query
 
-The following API query structure was used successfully as of JUL 4, 2024.
+The following API query structure was used successfully as of MAY 26, 2026.
 
 NOTE THAT *** = COUNTRY CODES USED BY U.N. IN README.md
 
@@ -43,11 +43,13 @@ https://api.unhcr.org/population/v1/population/?limit=100000
 &displayType=totals
 &columns%5B%5D=refugees
 &columns%5B%5D=asylum_seekers
+&columns%5B%5D=returned_refugees
 &columns%5B%5D=idps
-&columns%5B%5D=oip
+&columns%5B%5D=returned_idps
 &columns%5B%5D=stateless
-&columns%5B%5D=hst
 &columns%5B%5D=ooc
+&columns%5B%5D=oip
+&columns%5B%5D=hst
 
 &year%5B%5D=1951    &year%5B%5D=1952    &year%5B%5D=1953    &year%5B%5D=1954    &year%5B%5D=1955    &year%5B%5D=1956    &year%5B%5D=1957    &year%5B%5D=1958    &year%5B%5D=1959    &year%5B%5D=1960    &year%5B%5D=1961    &year%5B%5D=1962
 &year%5B%5D=1963    &year%5B%5D=1964    &year%5B%5D=1965    &year%5B%5D=1966    &year%5B%5D=1967    &year%5B%5D=1968    &year%5B%5D=1969    &year%5B%5D=1970    &year%5B%5D=1971    &year%5B%5D=1972    &year%5B%5D=1973    &year%5B%5D=1974
